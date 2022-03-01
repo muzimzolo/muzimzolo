@@ -2,11 +2,11 @@
 
 ### My name is Muzi :)
 
-- 👨🏽‍💻 I’m currently working on Spring micro-services
-- 📚 I’m currently learning Docker
-- 👯 I’m looking to collaborate on Spring Boot projects
-- 💬 Ask me about Java :)
+- 👨🏽‍💻 I like the decoupled process of creating micro-services
+- 📚 I’m currently deploying cloud native apps using Docker
+- 👯 I’m open to collaborate on Spring Boot projects
+- 💬 Ask me about Cloud Computing and Java
 - 📫 How to reach me: meneer.mzolo@gmail.com
-- ⚡️ Fun fact: I love big cats 
+- ⚡️ Random fact: I love big cats! 
 
 
